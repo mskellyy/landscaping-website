@@ -1,5 +1,37 @@
 .title {
   display: block;
-  margin: auto 0;
-  width: 70%;
+  margin: 0 auto;
+  width: 60%;
+  margin-top: 30px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.container {
+  background-color: beige;
+  margin: 0 auto;
+  display: block;
+}
+
+.titleTwo {
+  padding-top: 0px;
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  padding-bottom: 30px;
+}
+
+.main {
+  display: block;
+  text-align: center;
+}
+
+h2 {
+  color: #54595f;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 1.5em;
+  letter-spacing: 2.5px;
+  text-align: center;
 }
